@@ -1,0 +1,2 @@
+# pgnrepo
+pgn for bot
